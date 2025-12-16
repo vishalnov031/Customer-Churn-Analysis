@@ -30,7 +30,9 @@ retention opportunities** through data analysis and visualization.
 customer-churn-analysis/
 │
 ├── customer_churn_analysis.py
+
 ├── cleaned_customer_churn_data.csv
+
 ├── README.md
 
 ---
