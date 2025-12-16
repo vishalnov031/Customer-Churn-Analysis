@@ -27,8 +27,8 @@ retention opportunities** through data analysis and visualization.
 ---
 
 ## 📂 Project Structure
-customer-churn-analysis/
-│
+customer-churn-analysis
+
 ├── customer_churn_analysis.py
 
 ├── cleaned_customer_churn_data.csv
